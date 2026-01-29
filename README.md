@@ -14,10 +14,8 @@
 #### GitHub
 #### CI/CD
 
-#### Introduction
+
 #### Azure Data Project Architecture 
-#### Free Azure Account Creation
-#### Azure Portal Overview
 #### Creating Azure Resources
 #### Azure Data Factory Tutorial
 #### Azure SQL DB Source
