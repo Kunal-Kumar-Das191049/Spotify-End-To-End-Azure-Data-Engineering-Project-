@@ -60,6 +60,15 @@ At the End, I have build the warehouse to share the endpoints with the developme
 #### Dynamic Code
 
 ## Azure Resources used in the project
+##### Access Connector for Azure Databricks
+##### Databriks
+##### Data Factory
+##### Logic Apps
+##### Azure SQL Database
+##### Azure SQL Server
+##### Azure Data Lake Storage(ADLS) Gen2
+##### API Connection - Outlook
+
 <img width="1920" height="769" alt="Azure Cloud Resource Group" src="https://github.com/user-attachments/assets/d34854c1-795d-4f98-aa90-f0bf7744193d" />
 
 
