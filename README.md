@@ -33,6 +33,17 @@
 #### Databricks Incremental Data Load
 #### Databricks Asset Bundles For CI/CD
 
+
+## Project Features:
+#### Incremental Processing
+#### Backfilling Enabled
+#### Stream Processing
+#### Custom Utilities
+#### Metadata Driven Code
+#### Star Schema
+#### Git CI/CD Standards
+#### Dynamic Code
+
 This project includes Data ingestion using Azure Data factory where I have build realtime dynamic pipeline with backfilling capabilities. I have used Azure Databricks and Spark structured streaming and Autoloader for Big data processing within Python utilities. I have build slowly changing dimensions and star schema using DLT and lakeflow pipelines. I have also used Databricks Asset Bundles to Push and deploy my code to GitHub.  
 
 ## Project Architecture
@@ -48,15 +59,7 @@ I have also used the Databricks Asset Bundles For CI/CD
 At the End, I have build the warehouse to share the endpoints with the development team.
 
 
-## Project Features:
-#### Incremental Processing
-#### Backfilling Enabled
-#### Stream Processing
-#### Custom Utilities
-#### Metadata Driven Code
-#### Star Schema
-#### Git CI/CD Standards
-#### Dynamic Code
+
 
 ## Azure Resources used in the project
 ##### Access Connector for Azure Databricks
