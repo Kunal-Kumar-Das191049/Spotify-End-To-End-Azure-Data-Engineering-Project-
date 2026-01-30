@@ -83,10 +83,10 @@ At the End, I have build the warehouse to share the endpoints with the developme
 Git configuration with Azure Data Factory 
 <img width="1920" height="768" alt="Git Configuration with ADF" src="https://github.com/user-attachments/assets/9dcbbb96-3d29-4035-9608-c2a0c0579af3" />
 
-Creating Linked Services for connecting ADF with SQL database and ADLS
+Linked Services for connecting ADF with SQL database and ADLS
 <img width="1920" height="817" alt="Connecting ADF with SQL database and ADLS" src="https://github.com/user-attachments/assets/428c0c02-21da-4e5e-bd2f-1ea456dc0c2e" />
 
-Pipeline to incrementally load the raw data from SQL Database to ADLS(Bronze Layer) dynamically
+Dynamic pipeline to incrementally load the raw data from SQL Database to ADLS(Bronze Layer)
 <img width="1920" height="721" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer)" src="https://github.com/user-attachments/assets/62aed14f-5fae-406c-93ff-9fe9f55f79f7" />
 Here I have created 3 datasets:	
 ##### 1. azure sql - To define the location of data present in SQL Database 
