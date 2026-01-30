@@ -44,6 +44,8 @@
 ##### Git CI/CD Standards
 ##### Dynamic Code
 
+
+
 This project includes Data ingestion using Azure Data factory where I have build realtime dynamic pipeline with backfilling capabilities. I have used Azure Databricks and Spark structured streaming and Autoloader for Big data processing within Python utilities. I have build slowly changing dimensions and star schema using DLT and lakeflow pipelines. I have also used Databricks Asset Bundles to Push and deploy my code to GitHub.  
 
 ## Project Architecture
