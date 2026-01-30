@@ -73,6 +73,11 @@ At the End, I have build the warehouse to share the endpoints with the developme
 
 <img width="1920" height="769" alt="Azure Cloud Resource Group" src="https://github.com/user-attachments/assets/d34854c1-795d-4f98-aa90-f0bf7744193d" />
 
+## Azure Data Factory
+Git configuration with Azure Data Factory 
+<img width="1920" height="768" alt="Git Configuration with ADF" src="https://github.com/user-attachments/assets/9dcbbb96-3d29-4035-9608-c2a0c0579af3" />
+
+
 
 
 
