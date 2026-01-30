@@ -90,8 +90,8 @@ Dynamic pipeline to incrementally load the raw data from SQL Database to ADLS(Br
 <img width="1920" height="721" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer)" src="https://github.com/user-attachments/assets/62aed14f-5fae-406c-93ff-9fe9f55f79f7" />
 Here I have created 3 datasets:	
 ##### 1. azure sql - To define the location of data present in SQL Database 
-##### 2. json_dynamic - To dynamically define the location of data present in ADLS
-##### 3. parquet_dynamic
+##### 2. json_dynamic - To dynamically define the location of json data present in ADLS
+##### 3. parquet_dynamic - To dynamically define the location of parquet file format data present in ADLS
 <img width="1920" height="714" alt="Parameters used in the pipeline - incremental_ingestion" src="https://github.com/user-attachments/assets/c9022fcc-1912-447a-a219-91d7ee4f7251" />
 
 <img width="1920" height="720" alt="Variables used in the pipeline - incremental_ingestion" src="https://github.com/user-attachments/assets/a8974e04-08d9-4b61-8994-0a8021821fef" />
