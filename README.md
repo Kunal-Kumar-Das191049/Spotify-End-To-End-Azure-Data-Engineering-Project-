@@ -92,6 +92,10 @@ Here I have created 3 datasets:
 ##### 1. azure sql - To define the location of data present in SQL Database 
 ##### 2. json_dynamic - To dynamically define the location of data present in ADLS
 ##### 3. parquet_dynamic
+<img width="1920" height="714" alt="Parameters used in the pipeline - incremental_ingestion" src="https://github.com/user-attachments/assets/c9022fcc-1912-447a-a219-91d7ee4f7251" />
+
+<img width="1920" height="720" alt="Variables used in the pipeline - incremental_ingestion" src="https://github.com/user-attachments/assets/a8974e04-08d9-4b61-8994-0a8021821fef" />
+
 
 
 
