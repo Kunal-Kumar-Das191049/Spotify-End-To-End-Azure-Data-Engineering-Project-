@@ -1,18 +1,18 @@
 # Spotify-End-To-End-Azure-Data-Engineering-Project-
 ## Tech Stacks used
 ##### Azure Cloud
-#### Azure Data Factory
-#### Azure Databricks
-#### Azure SQL Database
-#### Unity Catalog
-#### Delta Live Tables
-#### Spark Streaming
-#### Pyspark
-#### Databricks Asset Bundles
-#### Logic Apps
-#### Medallion Architecture
-#### GitHub
-#### CI/CD
+##### Azure Data Factory
+##### Azure Databricks
+##### Azure SQL Database
+##### Unity Catalog
+##### Delta Live Tables
+##### Spark Streaming
+##### Pyspark
+##### Databricks Asset Bundles
+##### Logic Apps
+##### Medallion Architecture
+##### GitHub
+##### CI/CD
 
 
 
