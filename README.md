@@ -46,10 +46,14 @@
 
 
 
-This project includes Data ingestion using Azure Data factory where I have build realtime dynamic pipeline with backfilling capabilities. I have used Azure Databricks and Spark structured streaming and Autoloader for Big data processing within Python utilities. I have build slowly changing dimensions and star schema using DLT and lakeflow pipelines. I have also used Databricks Asset Bundles to Push and deploy my code to GitHub.  
+
 
 ## Project Architecture
 ![WhatsApp Image 2026-01-29 at 6 55 12 AM](https://github.com/user-attachments/assets/cd186220-e56f-49a3-87ab-c4683a15a04a)
+
+
+This project includes Data ingestion using Azure Data factory where I have build realtime dynamic pipeline with backfilling capabilities. I have used Azure Databricks and Spark structured streaming and Autoloader for Big data processing within Python utilities. I have build slowly changing dimensions and star schema using DLT and lakeflow pipelines. I have also used Databricks Asset Bundles to Push and deploy my code to GitHub.  
+
 
 SQL DB and GitHub(for static files) is our data sources. I have used the Azure Data Factory to load the data into the Bronze(Raw) layer. In the Bronze layer, I have Dynamically load the data incrementally using Incremental data load, backfilling of Data in the pipeline. I have also used the Git CI/CD to collaborate using git branches. 
 
