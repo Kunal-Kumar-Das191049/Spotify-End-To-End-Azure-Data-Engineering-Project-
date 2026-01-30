@@ -1,6 +1,6 @@
 # Spotify-End-To-End-Azure-Data-Engineering-Project-
 ## Tech Stacks used
-#### Azure Cloud
+##### Azure Cloud
 #### Azure Data Factory
 #### Azure Databricks
 #### Azure SQL Database
