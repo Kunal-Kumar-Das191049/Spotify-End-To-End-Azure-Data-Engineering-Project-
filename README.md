@@ -48,7 +48,7 @@ I have also used the Databricks Asset Bundles For CI/CD
 At the End, I have build the warehouse to share the endpoints with the development team.
 
 
-## Project Requirements:
+## Project Features:
 #### Incremental Processing
 #### Backfilling Enabled
 #### Stream Processing
