@@ -89,8 +89,8 @@ Creating Linked Services for connecting ADF with SQL database and ADLS
 Pipeline to incrementally load the raw data from SQL Database to ADLS(Bronze Layer)
 <img width="1920" height="721" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer)" src="https://github.com/user-attachments/assets/62aed14f-5fae-406c-93ff-9fe9f55f79f7" />
 Here I have created 3 datasets:	
-##### 1. azure sql
-##### 2. json_dynamic
+##### 1. azure sql - To define the location of data present in SQL Database 
+##### 2. json_dynamic - To define the location of data present in ADLS
 ##### 3. parquet_dynamic
 
 
