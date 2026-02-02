@@ -118,6 +118,20 @@ Parameter used in the pipeline
 Variable used in the pipeline
 <img width="1920" height="833" alt="Variables used in the pipeline - incremental_loop" src="https://github.com/user-attachments/assets/8f3b4212-e845-452d-938c-2648f29295d5" />
 
+## Logic Apps
+I have used it for sending notifications via Outlook when pipeline failed.
+<img width="1920" height="820" alt="Logic app designer Page" src="https://github.com/user-attachments/assets/37288adf-9c0b-4f7f-b9c2-97f8ea8de3cf" />
+
+Logic app - Setting the activity - When an HTTP request is received
+<img width="1920" height="824" alt="Logic app - Setting the activity - When an HTTP request is received" src="https://github.com/user-attachments/assets/331dc540-4a66-4ade-a7e6-fc8a825f39fc" />
+
+Logic app - Setting the action - Send an Email(V2)
+<img width="1883" height="818" alt="Logic app - Setting the action - Send an Email(V2) " src="https://github.com/user-attachments/assets/f93104b8-ff92-468a-b96c-cc38197dd240" />
+
+
+
+
+
 
 
 
