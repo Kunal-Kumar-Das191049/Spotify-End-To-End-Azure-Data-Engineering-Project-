@@ -67,7 +67,8 @@ At the End, I have build the warehouse to share the endpoints with the developme
 
 
 
-## Azure Resources used in the project
+## Azure cloud
+### Resources used in the project
 ##### Access Connector for Azure Databricks
 ##### Databriks
 ##### Data Factory
