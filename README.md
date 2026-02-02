@@ -82,8 +82,8 @@ At the End, I have build the warehouse to share the endpoints with the developme
 
 
 Bronze Layer Folders
+<img width="1920" height="601" alt="Bronze Layer Folders" src="https://github.com/user-attachments/assets/fc7bf3fc-227a-493c-b41c-aef9676a1ca1" />
 
-<img width="521" height="168" alt="Bronze layer folders" src="https://github.com/user-attachments/assets/986582d5-d13c-456a-9da2-91e2e62a9ee6" />
 
 
 ## Azure Data Factory
