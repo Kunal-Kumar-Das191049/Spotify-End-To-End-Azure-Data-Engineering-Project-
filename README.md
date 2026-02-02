@@ -80,6 +80,7 @@ At the End, I have build the warehouse to share the endpoints with the developme
 <img width="1920" height="769" alt="Azure Cloud Resource Group" src="https://github.com/user-attachments/assets/d34854c1-795d-4f98-aa90-f0bf7744193d" />
 
 Bronze Layer Folders
+
 <img width="521" height="168" alt="Bronze layer folders" src="https://github.com/user-attachments/assets/986582d5-d13c-456a-9da2-91e2e62a9ee6" />
 
 
