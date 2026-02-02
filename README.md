@@ -106,6 +106,10 @@ Here I have created 3 datasets:
 
 <img width="1920" height="720" alt="Variables used in the pipeline - incremental_ingestion" src="https://github.com/user-attachments/assets/a8974e04-08d9-4b61-8994-0a8021821fef" />
 
+Colone of same Pipeline with Loop and Alerts (By using Logic App) 
+<img width="1920" height="831" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer) using Loop" src="https://github.com/user-attachments/assets/f7a647a1-3712-4910-801d-5264b054a53d" />
+
+
 
 
 
