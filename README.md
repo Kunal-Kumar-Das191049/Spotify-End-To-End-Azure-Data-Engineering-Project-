@@ -122,7 +122,7 @@ Variable used in the pipeline
 I have used it for sending notifications via Outlook when pipeline failed.
 <img width="1920" height="820" alt="Logic app designer Page" src="https://github.com/user-attachments/assets/37288adf-9c0b-4f7f-b9c2-97f8ea8de3cf" />
 
-Logic app - Setting the activity - When an HTTP request is received
+Logic app - Setting the trigger - When an HTTP request is received
 <img width="1920" height="824" alt="Logic app - Setting the activity - When an HTTP request is received" src="https://github.com/user-attachments/assets/331dc540-4a66-4ade-a7e6-fc8a825f39fc" />
 
 Logic app - Setting the action - Send an Email(V2)
