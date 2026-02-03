@@ -80,6 +80,10 @@ At the End, I have build the warehouse to share the endpoints with the developme
 
 <img width="1920" height="769" alt="Azure Cloud Resource Group" src="https://github.com/user-attachments/assets/d34854c1-795d-4f98-aa90-f0bf7744193d" />
 
+## Storage Account - Azure Data Lake Storage(ADLS) Gen2
+
+ADLS containers
+<img width="1920" height="555" alt="ADLS containers" src="https://github.com/user-attachments/assets/7a5afc52-2220-44b3-b8a7-385e428cc729" />
 
 Bronze Layer Folders
 <img width="1920" height="601" alt="Bronze Layer Folders" src="https://github.com/user-attachments/assets/fc7bf3fc-227a-493c-b41c-aef9676a1ca1" />
@@ -137,6 +141,10 @@ Access connector for Azure Databricks Overview dashboard
 
 In ADLS I have added a role assignment (Storage Blob Data contributor) to the managed Identity ("AccessConnectorForDatabricks_SpotifyProject"). So that databricks can access the ADLS data with this access connector.
 <img width="1920" height="837" alt="Storage Blob data contributor role assignment to databricks access connector" src="https://github.com/user-attachments/assets/761e2f74-151e-467a-a31f-4f28fc637791" />
+
+Created a dedicated container named "databricksmetastore" in ADLS
+<img width="1920" height="555" alt="ADLS containers" src="https://github.com/user-attachments/assets/2af897a6-8bc8-43f1-9f16-f39bc5eccab9" />
+
 
 
 
