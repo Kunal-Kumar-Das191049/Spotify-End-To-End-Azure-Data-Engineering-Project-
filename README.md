@@ -128,6 +128,19 @@ Logic app - Setting the trigger - When an HTTP request is received
 Logic app - Setting the action - Send an Email(V2)
 <img width="1883" height="818" alt="Logic app - Setting the action - Send an Email(V2) " src="https://github.com/user-attachments/assets/f93104b8-ff92-468a-b96c-cc38197dd240" />
 
+## Databricks
+Databricks Overview dashboard
+<img width="1920" height="824" alt="Databricks Dashboard" src="https://github.com/user-attachments/assets/55dd3277-e1ed-4dec-9503-be81838b9974" />
+
+Access connector for Azure Databricks Overview dashboard
+<img width="1920" height="817" alt="Access connector for databricks dashboard" src="https://github.com/user-attachments/assets/ae712b45-f22b-4010-b1e9-1d76a9ebfca0" />
+
+In ADLS I have added a role assignment (Storage Blob Data contributor) to the managed Identity ("AccessConnectorForDatabricks_SpotifyProject"). So that databricks can access the ADLS data with this access connector.
+<img width="1920" height="837" alt="Storage Blob data contributor role assignment to databricks access connector" src="https://github.com/user-attachments/assets/761e2f74-151e-467a-a31f-4f28fc637791" />
+
+
+
+
 
 
 
