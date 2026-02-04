@@ -154,6 +154,13 @@ Workspace associated to the metastore
 Catalog creation in Databricks workspace
 <img width="1920" height="822" alt="catalog creation in databricks workspace" src="https://github.com/user-attachments/assets/b339af2f-66f2-4a70-89e7-8a908976c30e" />
 
+Created a credential and external locations for ADLS bronze, Silver and Gold layer.
+<img width="1920" height="834" alt="Credential creation" src="https://github.com/user-attachments/assets/023dc398-149a-49af-aa93-1f5e229bea7f" />
+<img width="1920" height="824" alt="External Locations" src="https://github.com/user-attachments/assets/d4b001f0-3d4d-4382-a7dd-44efb9952ef2" />
+
+
+
+
 
 
 
