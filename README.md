@@ -151,6 +151,10 @@ Deleted the default metastore and created a new metastore
 Workspace associated to the metastore
 <img width="1920" height="839" alt="Assigned workspace to the new metastore" src="https://github.com/user-attachments/assets/081d1180-7c71-40e6-b43b-38e64607ab30" />
 
+Catalog creation in Databricks workspace
+<img width="1920" height="822" alt="catalog creation in databricks workspace" src="https://github.com/user-attachments/assets/b339af2f-66f2-4a70-89e7-8a908976c30e" />
+
+
 
 
 
