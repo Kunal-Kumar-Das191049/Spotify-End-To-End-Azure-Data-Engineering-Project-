@@ -145,6 +145,14 @@ In ADLS I have added a role assignment (Storage Blob Data contributor) to the ma
 Created a dedicated container named "databricksmetastore" in ADLS
 <img width="1920" height="555" alt="ADLS containers" src="https://github.com/user-attachments/assets/2af897a6-8bc8-43f1-9f16-f39bc5eccab9" />
 
+Deleted the default metastore and created a new metastore
+<img width="1920" height="822" alt="New Metstore Created" src="https://github.com/user-attachments/assets/70d685d4-8c3c-4104-99cf-bc028817a622" />
+
+Workspace associated to the metastore
+<img width="1920" height="839" alt="Assigned workspace to the new metastore" src="https://github.com/user-attachments/assets/081d1180-7c71-40e6-b43b-38e64607ab30" />
+
+
+
 
 
 
