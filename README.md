@@ -184,6 +184,10 @@ Created a notebook - Used Autoloader to load the data in Stream and pyspark tran
 
 <img width="1920" height="810" alt="Pyspark transformation - 11" src="https://github.com/user-attachments/assets/81089915-acc5-4a7a-843b-ebef87c8d33e" />
 
+Created a Utility File to create a reusable method to delete columns
+<img width="1920" height="824" alt="Reusable method for deleting columns " src="https://github.com/user-attachments/assets/237620c4-f54f-4d4f-9c61-423c805cd1b4" />
+
+
 
 
 
