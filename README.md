@@ -163,15 +163,25 @@ Created Databricks Asset Bundle
 
 Created a notebook - Used Autoloader to load the data in Stream and pyspark transformations to transform the data
 <img width="1920" height="828" alt="Pyspark transformation - 1" src="https://github.com/user-attachments/assets/d9b4c604-1da1-4224-8d9f-84b91bec24b4" />
+
 <img width="1920" height="823" alt="Pyspark transformation - 2" src="https://github.com/user-attachments/assets/3371dcb5-9111-49ab-936e-75b526c5fcf0" />
+
 <img width="1920" height="831" alt="Pyspark transformation - 3" src="https://github.com/user-attachments/assets/dbef3434-b4ec-428e-a112-fec1cc6f83fe" />
+
 <img width="1920" height="809" alt="Pyspark transformation - 4" src="https://github.com/user-attachments/assets/4c87fad0-37bf-4faf-bd45-1761423b14ae" />
+
 <img width="1920" height="845" alt="Pyspark transformation - 5" src="https://github.com/user-attachments/assets/ba4219d0-7097-4315-8da7-26d07839a024" />
+
 <img width="1920" height="826" alt="Pyspark transformation - 6" src="https://github.com/user-attachments/assets/31f2f16c-5ccd-4e23-b86f-a265059d0791" />
+
 <img width="1920" height="824" alt="Pyspark transformation - 7" src="https://github.com/user-attachments/assets/4bc0b5cb-eb53-4fe3-9d12-9c252ded653c" />
+
 <img width="1920" height="832" alt="Pyspark transformation - 8" src="https://github.com/user-attachments/assets/989d9db5-e0e0-4a2f-8df6-6b9f5c4c2b78" />
+
 <img width="1920" height="830" alt="Pyspark transformation - 9" src="https://github.com/user-attachments/assets/f1f35538-3503-42b9-973f-cc86db716aee" />
+
 <img width="1920" height="817" alt="Pyspark transformation - 10" src="https://github.com/user-attachments/assets/e9a746b7-b835-4bb4-a296-e7a07e3afd69" />
+
 <img width="1920" height="810" alt="Pyspark transformation - 11" src="https://github.com/user-attachments/assets/81089915-acc5-4a7a-843b-ebef87c8d33e" />
 
 
