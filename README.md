@@ -187,6 +187,8 @@ Created a notebook - Used Autoloader to load the data in Stream and pyspark tran
 Created a Utility File to create a reusable method to delete columns
 <img width="1920" height="824" alt="Reusable method for deleting columns " src="https://github.com/user-attachments/assets/237620c4-f54f-4d4f-9c61-423c805cd1b4" />
 
+written the processed table in the databricks catalog inside silver schema.
+<img width="1920" height="815" alt="Catalog - Silver Schema - Tables" src="https://github.com/user-attachments/assets/c96eac50-dd89-4d48-90f0-5fa57b1ff04e" />
 
 
 
