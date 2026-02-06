@@ -212,6 +212,10 @@ Created a new ETL pipeline in databricks using DLT for creating star schema and 
 
 <img width="1920" height="828" alt="ETL Pipeline using DLT 5" src="https://github.com/user-attachments/assets/346d3486-86ea-46ee-bac0-dfec75acbc05" />
 
+DAG for the ETL Pipeline 
+<img width="1545" height="905" alt="DAG for Gold Pipeline" src="https://github.com/user-attachments/assets/28f6e89b-c3ab-48a9-b0b2-e66cc5f76783" />
+
+
 
 
 
