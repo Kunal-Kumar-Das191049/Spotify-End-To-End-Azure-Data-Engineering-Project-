@@ -190,6 +190,23 @@ Created a Utility File to create a reusable method to delete columns
 written the processed table in the databricks catalog inside silver schema.
 <img width="1920" height="815" alt="Catalog - Silver Schema - Tables" src="https://github.com/user-attachments/assets/c96eac50-dd89-4d48-90f0-5fa57b1ff04e" />
 
+created another notebook named "jinja_notebook" and used Jinja to dynamically apply joins between FactStream table , dimuser table and dimtrack table present in the databricks Unity catalog in Silver Schema.
+<img width="1920" height="837" alt="Jinja -1" src="https://github.com/user-attachments/assets/96e0b652-160d-4795-a406-6791fad8ab8a" />
+
+<img width="1920" height="841" alt="jinja - 2" src="https://github.com/user-attachments/assets/70fc489b-d838-4346-8e6b-27d40de1dcc2" />
+
+<img width="1920" height="824" alt="jinja - 3" src="https://github.com/user-attachments/assets/18ee48b0-a578-4b4d-8f87-a0f4b8f2b891" />
+
+<img width="1920" height="818" alt="Jinja - 4" src="https://github.com/user-attachments/assets/802d1c3d-8872-486f-adfd-c509fb668f5e" />
+
+<img width="1920" height="829" alt="Jinja 5" src="https://github.com/user-attachments/assets/4da88cf8-cc16-4300-bb63-346bf87b9537" />
+
+
+
+
+
+
+
 
 
 
