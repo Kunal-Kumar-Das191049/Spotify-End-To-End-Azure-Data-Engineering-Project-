@@ -202,6 +202,19 @@ created another notebook named "jinja_notebook" and used Jinja to dynamically ap
 <img width="1920" height="829" alt="Jinja 5" src="https://github.com/user-attachments/assets/4da88cf8-cc16-4300-bb63-346bf87b9537" />
 
 Created a new ETL pipeline in databricks using DLT for creating star schema and slowly changing dimension
+<img width="1920" height="833" alt="ETL Pipeline using DLT 1" src="https://github.com/user-attachments/assets/cf22aaf5-f14b-4667-a8fd-51d55079b803" />
+
+<img width="1920" height="813" alt="ETL Pipeline using DLT 2" src="https://github.com/user-attachments/assets/ea3a1e40-caae-4662-afd9-4acbacdcdb2a" />
+
+<img width="1920" height="828" alt="ETL Pipeline using DLT 3" src="https://github.com/user-attachments/assets/9066f651-baad-4738-a1b4-7982cf1ed2e8" />
+
+<img width="1920" height="834" alt="ETL Pipeline using DLT 4" src="https://github.com/user-attachments/assets/e663daaa-46c4-4094-89f0-4cacf0b49ac7" />
+
+<img width="1920" height="828" alt="ETL Pipeline using DLT 5" src="https://github.com/user-attachments/assets/346d3486-86ea-46ee-bac0-dfec75acbc05" />
+
+
+
+
 
 
 
