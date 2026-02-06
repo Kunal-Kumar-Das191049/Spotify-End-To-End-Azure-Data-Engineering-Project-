@@ -215,6 +215,15 @@ Created a new ETL pipeline in databricks using DLT for creating star schema and 
 DAG for the ETL Pipeline 
 <img width="1545" height="905" alt="DAG for Gold Pipeline" src="https://github.com/user-attachments/assets/28f6e89b-c3ab-48a9-b0b2-e66cc5f76783" />
 
+SCD Type 2 Successfully implemented in the gold layer data
+<img width="1636" height="907" alt="SCD Type 2 Successfully Implemented" src="https://github.com/user-attachments/assets/3949bb13-4b01-4cee-bb49-72674362d172" />
+
+All tables has successfully transferred to the Gold schema in the catalog
+<img width="1920" height="830" alt="Gold layer schema tables " src="https://github.com/user-attachments/assets/f8baeaa9-60ac-40fb-83f6-7217d5ed549b" />
+
+
+
+
 
 
 
