@@ -221,6 +221,15 @@ SCD Type 2 Successfully implemented in the gold layer data
 All tables has successfully transferred to the Gold schema in the catalog
 <img width="1920" height="830" alt="Gold layer schema tables " src="https://github.com/user-attachments/assets/f8baeaa9-60ac-40fb-83f6-7217d5ed549b" />
 
+Deployed the asset bundle in the dev environment and it created.bundle
+databricks.yml
+<img width="1920" height="818" alt="databricks yml file" src="https://github.com/user-attachments/assets/4ecbbd1a-6dd3-4fe3-8e80-462c6c25b2da" />
+
+<img width="1920" height="822" alt="bundle file" src="https://github.com/user-attachments/assets/cb8a32db-17ea-4825-a2af-f1834d789af6" />
+
+
+
+
 
 
 
