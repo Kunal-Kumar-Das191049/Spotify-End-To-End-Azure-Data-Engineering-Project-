@@ -38,35 +38,16 @@ The pipeline ingests data from **Azure SQL Database & GitHub**, processes it usi
 - Git Branch Collaboration
 
 
+## ✨ Project Features
 
-#### Azure Data Factory Tutorial
-#### Azure SQL DB Source
-#### Incremental Ingestion Pipelines With Data Factory
-#### Adding Backfilling Feature In The Pipelines
-#### Looping The Pipelines
-#### Logic Apps With Azure Data Factory
-#### Azure Databricks Tutorial
-#### Databricks Unity Catalog Tutorial
-#### Spark Streaming With Databricks Autoloader
-#### Python Utilities 
-#### PySpark Transformations & APIs
-#### Metadata Driven Pipelines With PySpark and Jinja2
-#### Star Schema and Slowly Changing Dimensions
-#### Databricks Delta Live Tables Tutorial
-#### Databricks Incremental Data Load
-#### Databricks Asset Bundles For CI/CD
-
-
-## Project Features:
-##### Incremental Processing
-##### Backfilling Enabled
-##### Stream Processing
-##### Custom Utilities
-##### Metadata Driven Code
-##### Star Schema
-##### Git CI/CD Standards
-##### Dynamic Code
-
+- ✅ Incremental Data Processing
+- ✅ Backfilling Support
+- ✅ Real-time Stream Processing
+- ✅ Metadata Driven Code
+- ✅ Dynamic Pipeline Execution
+- ✅ Star Schema Data Modeling
+- ✅ CI/CD Integration
+- ✅ Custom PySpark Utilities
 
 
 
