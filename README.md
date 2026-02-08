@@ -252,12 +252,18 @@ In ADLS I have added a role assignment (Storage Blob Data contributor) to the ma
 
 <img width="1920" height="810" alt="Pyspark transformation - 11" src="https://github.com/user-attachments/assets/81089915-acc5-4a7a-843b-ebef87c8d33e" />
 
+---
+## Custom Utility Functions
 Created a Utility File to create a reusable method to delete columns
 <img width="1920" height="824" alt="Reusable method for deleting columns " src="https://github.com/user-attachments/assets/237620c4-f54f-4d4f-9c61-423c805cd1b4" />
 
+---
+## Silver Layer Tables
 written the processed table in the databricks catalog inside silver schema.
 <img width="1920" height="815" alt="Catalog - Silver Schema - Tables" src="https://github.com/user-attachments/assets/c96eac50-dd89-4d48-90f0-5fa57b1ff04e" />
 
+---
+# 🧠 Metadata Driven Pipelines (Jinja2)
 created another notebook named "jinja_notebook" and used Jinja to dynamically apply joins between FactStream table , dimuser table and dimtrack table present in the databricks Unity catalog in Silver Schema.
 <img width="1920" height="837" alt="Jinja -1" src="https://github.com/user-attachments/assets/96e0b652-160d-4795-a406-6791fad8ab8a" />
 
@@ -269,6 +275,9 @@ created another notebook named "jinja_notebook" and used Jinja to dynamically ap
 
 <img width="1920" height="829" alt="Jinja 5" src="https://github.com/user-attachments/assets/4da88cf8-cc16-4300-bb63-346bf87b9537" />
 
+---
+
+# 🥇 Gold Layer Implementation (DLT)
 Created a new ETL pipeline in databricks using DLT for creating star schema and slowly changing dimension
 <img width="1920" height="833" alt="ETL Pipeline using DLT 1" src="https://github.com/user-attachments/assets/cf22aaf5-f14b-4667-a8fd-51d55079b803" />
 
