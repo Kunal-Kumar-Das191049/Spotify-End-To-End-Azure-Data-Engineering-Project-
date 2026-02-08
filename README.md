@@ -152,7 +152,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 ### Pipeline Features
 - Incremental Loading
 - Backfilling Support
-- 
+-  
 ### Datasets Used:	
 1. azure sql - To define the location of data present in SQL Database
 2. json_dynamic - To dynamically define the location of json data present in ADLS
@@ -166,24 +166,28 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 ---
 
-Colone of same Pipeline with Loop and Alerts (By using Logic App) 
+## Colone of same Pipeline with Loop and Alerts (By using Logic App) 
 <img width="1920" height="831" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer) using Loop" src="https://github.com/user-attachments/assets/f7a647a1-3712-4910-801d-5264b054a53d" />
 
-Parameter used in the pipeline
+## Pipeline Parameters
 <img width="1920" height="832" alt="Parameter used in the pipeline - incremental_loop" src="https://github.com/user-attachments/assets/1c725b7c-5d2e-4a6f-a190-ad3b5cf2a431" />
 
-Variable used in the pipeline
+### Pipeline Variables
 <img width="1920" height="833" alt="Variables used in the pipeline - incremental_loop" src="https://github.com/user-attachments/assets/8f3b4212-e845-452d-938c-2648f29295d5" />
 
-## Logic Apps
-I have used it for sending notifications via Outlook when pipeline failed.
+--- 
+
+# Logic Apps Integration
+Used for **sending notifications via Outlook** when pipeline failed.
 <img width="1920" height="820" alt="Logic app designer Page" src="https://github.com/user-attachments/assets/37288adf-9c0b-4f7f-b9c2-97f8ea8de3cf" />
 
-Logic app - Setting the trigger - When an HTTP request is received
+**Setting the trigger** - When an HTTP request is received
 <img width="1920" height="824" alt="Logic app - Setting the activity - When an HTTP request is received" src="https://github.com/user-attachments/assets/331dc540-4a66-4ade-a7e6-fc8a825f39fc" />
 
-Logic app - Setting the action - Send an Email(V2)
+**Setting the action** - Send an Email(V2)
 <img width="1883" height="818" alt="Logic app - Setting the action - Send an Email(V2) " src="https://github.com/user-attachments/assets/f93104b8-ff92-468a-b96c-cc38197dd240" />
+
+---
 
 ## Databricks
 Databricks Overview dashboard
