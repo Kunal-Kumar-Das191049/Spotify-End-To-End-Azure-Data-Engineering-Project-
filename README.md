@@ -217,7 +217,7 @@ In ADLS I have added a role assignment (Storage Blob Data contributor) to the ma
 ---
 
 ## External Locations & Credentials
-Created a credential and external locations for ADLS bronze, Silver and Gold layer.
+**Created a credential and external locations for ADLS bronze, Silver and Gold layer.**
 <img width="1920" height="834" alt="Credential creation" src="https://github.com/user-attachments/assets/023dc398-149a-49af-aa93-1f5e229bea7f" />
 <img width="1920" height="824" alt="External Locations" src="https://github.com/user-attachments/assets/d4b001f0-3d4d-4382-a7dd-44efb9952ef2" />
 
