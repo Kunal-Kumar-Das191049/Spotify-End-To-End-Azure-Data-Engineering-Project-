@@ -193,27 +193,34 @@ Used for **sending notifications via Outlook** when pipeline failed.
 ## Workspace Overview
 <img width="1920" height="824" alt="Databricks Dashboard" src="https://github.com/user-attachments/assets/55dd3277-e1ed-4dec-9503-be81838b9974" />
 
-Access connector for Azure Databricks Overview dashboard
+## Access connector Configuration
 <img width="1920" height="817" alt="Access connector for databricks dashboard" src="https://github.com/user-attachments/assets/ae712b45-f22b-4010-b1e9-1d76a9ebfca0" />
 
+## Role Assignment
 In ADLS I have added a role assignment (Storage Blob Data contributor) to the managed Identity ("AccessConnectorForDatabricks_SpotifyProject"). So that databricks can access the ADLS data with this access connector.
 <img width="1920" height="837" alt="Storage Blob data contributor role assignment to databricks access connector" src="https://github.com/user-attachments/assets/761e2f74-151e-467a-a31f-4f28fc637791" />
 
-Created a dedicated container named "databricksmetastore" in ADLS
+---
+## Unity Catalog Setup
+### Created a dedicated container named "databricksmetastore" in ADLS for Databricks
 <img width="1920" height="555" alt="ADLS containers" src="https://github.com/user-attachments/assets/2af897a6-8bc8-43f1-9f16-f39bc5eccab9" />
 
-Deleted the default metastore and created a new metastore
+### Deleted the default metastore and created a new metastore
 <img width="1920" height="822" alt="New Metstore Created" src="https://github.com/user-attachments/assets/70d685d4-8c3c-4104-99cf-bc028817a622" />
 
-Workspace associated to the metastore
+### Workspace associated to the metastore
 <img width="1920" height="839" alt="Assigned workspace to the new metastore" src="https://github.com/user-attachments/assets/081d1180-7c71-40e6-b43b-38e64607ab30" />
 
-Catalog creation in Databricks workspace
+### Catalog creation in Databricks workspace
 <img width="1920" height="822" alt="catalog creation in databricks workspace" src="https://github.com/user-attachments/assets/b339af2f-66f2-4a70-89e7-8a908976c30e" />
 
-Created a credential and external locations for ADLS bronze, Silver and Gold layer.
+---
+
+## Created a credential and external locations for ADLS bronze, Silver and Gold layer.
 <img width="1920" height="834" alt="Credential creation" src="https://github.com/user-attachments/assets/023dc398-149a-49af-aa93-1f5e229bea7f" />
 <img width="1920" height="824" alt="External Locations" src="https://github.com/user-attachments/assets/d4b001f0-3d4d-4382-a7dd-44efb9952ef2" />
+
+---
 
 Created Databricks Asset Bundle
 <img width="1920" height="827" alt="Databricks Asset Bundle" src="https://github.com/user-attachments/assets/6c04041b-4690-431f-8749-0c9a95c6d3a9" />
