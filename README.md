@@ -106,7 +106,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 - Exposes analytical datasets
 - Provides endpoints for downstream applications
 
-
+---
 
 
 
