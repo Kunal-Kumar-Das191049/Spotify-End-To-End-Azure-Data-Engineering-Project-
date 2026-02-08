@@ -111,16 +111,18 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 
 
-## Azure cloud
-### Resources used in the project
-##### Access Connector for Azure Databricks
-##### Databriks
-##### Data Factory
-##### Logic Apps
-##### Azure SQL Database
-##### Azure SQL Server
-##### Azure Data Lake Storage(ADLS) Gen2
-##### API Connection - Outlook
+# ☁️ Azure Infrastructure Setup
+
+## 🔹 Resources Used
+
+- Access Connector for Azure Databricks
+- Azure Databricks
+- Azure Data Factory
+- Logic Apps
+- Azure SQL Database
+- Azure SQL Server
+- Azure Data Lake Storage(ADLS) Gen2
+- Outlook API Connection
 
 <img width="1920" height="769" alt="Azure Cloud Resource Group" src="https://github.com/user-attachments/assets/d34854c1-795d-4f98-aa90-f0bf7744193d" />
 
