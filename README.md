@@ -1,18 +1,41 @@
-# Spotify-End-To-End-Azure-Data-Engineering-Project-
-## Tech Stacks used
-##### Azure Cloud
-##### Azure Data Factory
-##### Azure Databricks
-##### Azure SQL Database
-##### Unity Catalog
-##### Delta Live Tables
-##### Spark Streaming
-##### Pyspark
-##### Databricks Asset Bundles
-##### Logic Apps
-##### Medallion Architecture
-##### GitHub
-##### CI/CD
+# 🎧 Spotify End-To-End Azure Data Engineering Project
+## 📌 Project Overview
+
+This project demonstrates a **complete end-to-end Data Engineering pipeline** built on **Microsoft Azure + Databricks ecosystem** using **Medallion Architecture (Bronze → Silver → Gold)**.
+
+The pipeline ingests data from **Azure SQL Database & GitHub**, processes it using **Azure Data Factory**, transforms and models data using **Databricks & Delta Live Tables**, and finally exposes curated datasets through a **Data Warehouse layer**.
+
+## 🧰 Tech Stack
+
+### ☁️ Cloud & Storage
+- Azure Cloud
+- Azure Data Lake Storage (ADLS Gen2)
+
+### 🔄 Data Ingestion & Orchestration
+- Azure Data Factory
+- Logic Apps
+- Incremental Pipelines
+- Backfilling Pipelines
+- Loop-based Dynamic Pipelines
+
+### ⚡ Data Processing
+- Azure Databricks
+- Spark Structured Streaming
+- Databricks Autoloader
+- PySpark
+- Python Utilities
+- Metadata Driven Pipelines (Jinja2)
+
+### 🧱 Data Modeling
+- Unity Catalog
+- Star Schema
+- Slowly Changing Dimensions (SCD Type 2)
+- Delta Live Tables (DLT)
+
+### 🚀 DevOps & CI/CD
+- GitHub
+- Databricks Asset Bundles
+- Git Branch Collaboration
 
 
 
