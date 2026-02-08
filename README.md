@@ -61,13 +61,13 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 ### 📊 Data Flow Explanation
 
-**🔹 Data Sources**
+### 🔹 Data Sources
 - Azure SQL Database
 - GitHub (Static Files)
 
 
 
-#### 🥉 Bronze Layer (Raw Data)
+### 🥉 Bronze Layer (Raw Data)
 
 👉 Implemented using **Azure Data Factory**
 
@@ -79,7 +79,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 
 
-#### 🥈 Silver Layer (Cleaned & Transformed Data)
+### 🥈 Silver Layer (Cleaned & Transformed Data)
 
 👉 Implemented using **Azure Databricks**
 
@@ -91,7 +91,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 
 
-#### 🥇 Gold Layer (Business Ready Data)
+### 🥇 Gold Layer (Business Ready Data)
 
 👉 Implemented using **Delta Live Tables**
 
@@ -101,7 +101,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 
 
-#### 🏬 Warehouse Layer
+### 🏬 Warehouse Layer
 
 - Exposes analytical datasets
 - Provides endpoints for downstream applications
