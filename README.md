@@ -126,13 +126,23 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 <img width="1920" height="769" alt="Azure Cloud Resource Group" src="https://github.com/user-attachments/assets/d34854c1-795d-4f98-aa90-f0bf7744193d" />
 
-## Storage Account - Azure Data Lake Storage(ADLS) Gen2
+---
 
-ADLS containers
-<img width="1920" height="555" alt="ADLS containers" src="https://github.com/user-attachments/assets/7a5afc52-2220-44b3-b8a7-385e428cc729" />
+## 🧾 Resource Group
 
-Bronze Layer Folders
-<img width="1920" height="601" alt="Bronze Layer Folders" src="https://github.com/user-attachments/assets/fc7bf3fc-227a-493c-b41c-aef9676a1ca1" />
+![Azure Resource Group](https://github.com/user-attachments/assets/d34854c1-795d-4f98-aa90-f0bf7744193d)
+
+---
+
+# 🗄️ Storage Layer (ADLS Gen2)
+
+## Containers
+![ADLS Containers](https://github.com/user-attachments/assets/7a5afc52-2220-44b3-b8a7-385e428cc729)
+
+## Bronze Layer Structure
+![Bronze Layer](https://github.com/user-attachments/assets/fc7bf3fc-227a-493c-b41c-aef9676a1ca1)
+
+---
 
 
 
