@@ -59,15 +59,15 @@ The pipeline ingests data from **Azure SQL Database & GitHub**, processes it usi
 This project includes Data ingestion using Azure Data factory where I have build realtime dynamic pipeline with backfilling capabilities. I have used Azure Databricks and Spark structured streaming and Autoloader for Big data processing within Python utilities. I have build slowly changing dimensions and star schema using DLT and lakeflow pipelines. I have also used Databricks Asset Bundles to Push and deploy my code to GitHub.  
 
 
-## 📊 Data Flow Explanation
+### 📊 Data Flow Explanation
 
-### 🔹 Data Sources
+#### 🔹 Data Sources
 - Azure SQL Database
 - GitHub (Static Files)
 
 
 
-### 🥉 Bronze Layer (Raw Data)
+#### 🥉 Bronze Layer (Raw Data)
 
 👉 Implemented using **Azure Data Factory**
 
@@ -79,7 +79,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 
 
-### 🥈 Silver Layer (Cleaned & Transformed Data)
+#### 🥈 Silver Layer (Cleaned & Transformed Data)
 
 👉 Implemented using **Azure Databricks**
 
@@ -91,7 +91,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 
 
-### 🥇 Gold Layer (Business Ready Data)
+#### 🥇 Gold Layer (Business Ready Data)
 
 👉 Implemented using **Delta Live Tables**
 
@@ -101,7 +101,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 
 
-### 🏬 Warehouse Layer
+#### 🏬 Warehouse Layer
 
 - Exposes analytical datasets
 - Provides endpoints for downstream applications
