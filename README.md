@@ -61,7 +61,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 ### 📊 Data Flow Explanation
 
-#### 🔹 Data Sources
+**🔹 Data Sources**
 - Azure SQL Database
 - GitHub (Static Files)
 
