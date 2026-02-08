@@ -65,7 +65,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 - Azure SQL Database
 - GitHub (Static Files)
 
----
+
 
 ### 🥉 Bronze Layer (Raw Data)
 
@@ -77,7 +77,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 - CDC-based loading
 - Stored data in ADLS in Parquet format
 
----
+
 
 ### 🥈 Silver Layer (Cleaned & Transformed Data)
 
@@ -89,7 +89,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 - PySpark transformations
 - Metadata-driven joins using Jinja2
 
----
+
 
 ### 🥇 Gold Layer (Business Ready Data)
 
@@ -99,14 +99,14 @@ This project includes Data ingestion using Azure Data factory where I have build
 - SCD Type 2 implementation
 - Final curated datasets
 
----
+
 
 ### 🏬 Warehouse Layer
 
 - Exposes analytical datasets
 - Provides endpoints for downstream applications
 
----
+
 
 
 
