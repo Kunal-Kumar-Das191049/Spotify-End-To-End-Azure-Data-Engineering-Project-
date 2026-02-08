@@ -229,7 +229,7 @@ In ADLS I have added a role assignment (Storage Blob Data contributor) to the ma
 
 ---
 ## Autoloader + PySpark Transformations
-Created a notebook - Used Autoloader to load the data in Stream and pyspark transformations to transform the data
+**Created a notebook - Used Autoloader to load the data in Stream and pyspark transformations to transform the data**
 <img width="1920" height="828" alt="Pyspark transformation - 1" src="https://github.com/user-attachments/assets/d9b4c604-1da1-4224-8d9f-84b91bec24b4" />
 
 <img width="1920" height="823" alt="Pyspark transformation - 2" src="https://github.com/user-attachments/assets/3371dcb5-9111-49ab-936e-75b526c5fcf0" />
