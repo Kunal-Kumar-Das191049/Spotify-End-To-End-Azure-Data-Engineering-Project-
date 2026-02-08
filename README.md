@@ -189,7 +189,7 @@ Used for **sending notifications via Outlook** when pipeline failed.
 
 ---
 
-## Databricks Implementation
+# Databricks Implementation
 ## Workspace Overview
 <img width="1920" height="824" alt="Databricks Dashboard" src="https://github.com/user-attachments/assets/55dd3277-e1ed-4dec-9503-be81838b9974" />
 
@@ -202,16 +202,16 @@ In ADLS I have added a role assignment (Storage Blob Data contributor) to the ma
 
 ---
 ## Unity Catalog Setup
-### Created a dedicated container named "databricksmetastore" in ADLS for Databricks
+**Created a dedicated container named "databricksmetastore" in ADLS for Databricks**
 <img width="1920" height="555" alt="ADLS containers" src="https://github.com/user-attachments/assets/2af897a6-8bc8-43f1-9f16-f39bc5eccab9" />
 
-### Deleted the default metastore and created a new metastore
+**Deleted the default metastore and created a new metastore**
 <img width="1920" height="822" alt="New Metstore Created" src="https://github.com/user-attachments/assets/70d685d4-8c3c-4104-99cf-bc028817a622" />
 
-### Workspace associated to the metastore
+**Workspace associated to the metastore**
 <img width="1920" height="839" alt="Assigned workspace to the new metastore" src="https://github.com/user-attachments/assets/081d1180-7c71-40e6-b43b-38e64607ab30" />
 
-### Catalog creation in Databricks workspace
+**Catalog creation in Databricks workspace**
 <img width="1920" height="822" alt="catalog creation in databricks workspace" src="https://github.com/user-attachments/assets/b339af2f-66f2-4a70-89e7-8a908976c30e" />
 
 ---
