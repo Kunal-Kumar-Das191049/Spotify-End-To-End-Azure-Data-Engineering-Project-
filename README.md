@@ -113,7 +113,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 # ☁️ Azure Infrastructure Setup
 
-### 🔹 Resources Used
+## 🔹 Resources Used
 
 - Access Connector for Azure Databricks
 - Azure Databricks
@@ -128,45 +128,45 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 ---
 
-### 🗄️ Storage Layer (ADLS Gen2)
+# 🗄️ Storage Layer (ADLS Gen2)
 
-**Containers**
+## Containers
 ![ADLS Containers](https://github.com/user-attachments/assets/7a5afc52-2220-44b3-b8a7-385e428cc729)
 
-**Bronze Layer Structure**
+## Bronze Layer Structure
 ![Bronze Layer](https://github.com/user-attachments/assets/fc7bf3fc-227a-493c-b41c-aef9676a1ca1)
 
 ---
 
-### 🔄 Azure Data Factory Implementation
-**Git configuration with Azure Data Factory** 
+# 🔄 Azure Data Factory Implementation
+## Git configuration with Azure Data Factory 
 <img width="1920" height="768" alt="Git Configuration with ADF" src="https://github.com/user-attachments/assets/9dcbbb96-3d29-4035-9608-c2a0c0579af3" />
 
-**Linked Services for connecting ADF with SQL database and ADLS**
+## Linked Services for connecting ADF with SQL database and ADLS
 <img width="1920" height="817" alt="Connecting ADF with SQL database and ADLS" src="https://github.com/user-attachments/assets/428c0c02-21da-4e5e-bd2f-1ea456dc0c2e" />
 
 ---
-### Dynamic pipeline to incrementally load the raw data from SQL Database to ADLS(Bronze Layer)
+## Dynamic pipeline to incrementally load the raw data from SQL Database to ADLS(Bronze Layer)
 <img width="1920" height="721" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer)" src="https://github.com/user-attachments/assets/62aed14f-5fae-406c-93ff-9fe9f55f79f7" />
 
-**Pipeline Features**
--- Incremental Loading
+### Pipeline Features
+- Incremental Loading
 - Backfilling Support
    
-### Datasets Used:	
+### Datasets Used	
 1. azure sql - To define the location of data present in SQL Database
 2. json_dynamic - To dynamically define the location of json data present in ADLS
 3. parquet_dynamic - To dynamically define the location of parquet file format data present in ADLS
 
-**Pipeline Parameters**
+### Pipeline Parameters
 <img width="1920" height="714" alt="Parameters used in the pipeline - incremental_ingestion" src="https://github.com/user-attachments/assets/c9022fcc-1912-447a-a219-91d7ee4f7251" />
 
-**Pipeline Variables**
+### Pipeline Variables
 <img width="1920" height="720" alt="Variables used in the pipeline - incremental_ingestion" src="https://github.com/user-attachments/assets/a8974e04-08d9-4b61-8994-0a8021821fef" />
 
 ---
 
-**Colone of same Pipeline with Loop and Alerts (By using Logic App)** 
+## Colone of same Pipeline with Loop and Alerts (By using Logic App)
 <img width="1920" height="831" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer) using Loop" src="https://github.com/user-attachments/assets/f7a647a1-3712-4910-801d-5264b054a53d" />
 
 ### Pipeline Parameters
