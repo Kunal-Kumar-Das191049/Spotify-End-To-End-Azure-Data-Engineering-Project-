@@ -278,6 +278,7 @@ created another notebook named "jinja_notebook" and used Jinja to dynamically ap
 ---
 
 # 🥇 Gold Layer Implementation (DLT)
+## Star Schema + SCD Type 2
 Created a new ETL pipeline in databricks using DLT for creating star schema and slowly changing dimension
 <img width="1920" height="833" alt="ETL Pipeline using DLT 1" src="https://github.com/user-attachments/assets/cf22aaf5-f14b-4667-a8fd-51d55079b803" />
 
@@ -289,19 +290,29 @@ Created a new ETL pipeline in databricks using DLT for creating star schema and 
 
 <img width="1920" height="828" alt="ETL Pipeline using DLT 5" src="https://github.com/user-attachments/assets/346d3486-86ea-46ee-bac0-dfec75acbc05" />
 
-DAG for the ETL Pipeline 
+---
+
+## DAG View for the ETL Pipeline 
 <img width="1545" height="905" alt="DAG for Gold Pipeline" src="https://github.com/user-attachments/assets/28f6e89b-c3ab-48a9-b0b2-e66cc5f76783" />
 
+---
+## SCD Type 2 Output
 SCD Type 2 Successfully implemented in the gold layer data
 <img width="1636" height="907" alt="SCD Type 2 Successfully Implemented" src="https://github.com/user-attachments/assets/3949bb13-4b01-4cee-bb49-72674362d172" />
 
+---
+## Gold Schema Tables
 All tables has successfully transferred to the Gold schema in the catalog
 <img width="1920" height="830" alt="Gold layer schema tables " src="https://github.com/user-attachments/assets/f8baeaa9-60ac-40fb-83f6-7217d5ed549b" />
 
-Deployed the asset bundle in the dev environment and it created.bundle
-databricks.yml
-<img width="1920" height="818" alt="databricks yml file" src="https://github.com/user-attachments/assets/4ecbbd1a-6dd3-4fe3-8e80-462c6c25b2da" />
+---
 
+# 🚀 CI/CD Using Databricks Asset Bundles
+Deployed the asset bundle in the dev environment and it created.bundle
+
+### Bundle Configuration - databricks.yml
+<img width="1920" height="818" alt="databricks yml file" src="https://github.com/user-attachments/assets/4ecbbd1a-6dd3-4fe3-8e80-462c6c25b2da" />
+### Bundle Deployment
 <img width="1920" height="822" alt="bundle file" src="https://github.com/user-attachments/assets/cb8a32db-17ea-4825-a2af-f1834d789af6" />
 
 
