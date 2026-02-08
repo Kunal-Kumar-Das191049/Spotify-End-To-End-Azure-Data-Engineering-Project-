@@ -7,7 +7,7 @@ The pipeline ingests data from **Azure SQL Database & GitHub**, processes it usi
 
 ## 🧰 Tech Stack
 
-### ☁️ Cloud & Storage
+**☁️ Cloud & Storage**
 - Azure Cloud
 - Azure Data Lake Storage (ADLS Gen2)
 
