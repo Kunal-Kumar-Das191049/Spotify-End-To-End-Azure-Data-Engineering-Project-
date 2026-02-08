@@ -229,6 +229,103 @@ databricks.yml
 
 
 
+🎧 Spotify End-to-End Azure Data Engineering Project
+
+This project is a production-style end-to-end data engineering solution on Azure, designed to demonstrate incremental ingestion, streaming processing, medallion architecture, metadata-driven pipelines, and CI/CD practices using Azure and Databricks.
+
+🛠️ Tech Stack Used
+☁️ Cloud & Data Services
+
+Azure Cloud
+
+Azure SQL Database & Azure SQL Server
+
+Azure Data Lake Storage (ADLS) Gen2
+
+Azure Data Factory
+
+Azure Databricks
+
+Logic Apps
+
+⚙️ Processing & Architecture
+
+PySpark
+
+Spark Structured Streaming
+
+Databricks Autoloader
+
+Unity Catalog
+
+Delta Live Tables (DLT)
+
+Medallion Architecture (Bronze, Silver, Gold)
+
+Star Schema
+
+Slowly Changing Dimensions (SCD)
+
+🚀 DevOps & CI/CD
+
+GitHub
+
+Git-based CI/CD
+
+Databricks Asset Bundles
+
+✨ Project Features
+
+Incremental data processing
+
+Backfilling support
+
+Streaming ingestion
+
+Metadata-driven pipelines
+
+Custom PySpark utilities
+
+Star schema modeling
+
+CI/CD standards using GitHub
+
+Dynamic and reusable code
+
+📌 Project Overview
+
+Azure SQL Database and GitHub (static files) are used as data sources.
+
+Azure Data Factory (ADF) ingests data incrementally into the Bronze layer.
+
+Azure Databricks processes Bronze data and writes curated data to the Silver layer using Spark Structured Streaming and Autoloader.
+
+Delta Live Tables (DLT) are used to build Gold-layer star schema models with Slowly Changing Dimensions.
+
+Databricks Asset Bundles are used to manage and deploy code through CI/CD.
+
+A Warehouse is created at the end to share analytics-ready endpoints with the development team.
+
+☁️ Azure Resources Used
+
+Azure SQL Database
+
+Azure SQL Server
+
+Azure Data Lake Storage (ADLS) Gen2
+
+Azure Data Factory
+
+Azure Databricks
+
+Access Connector for Azure Databricks
+
+Logic Apps
+
+Outlook API Connection
+
+
+
 
 
 
