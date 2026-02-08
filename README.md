@@ -139,10 +139,10 @@ This project includes Data ingestion using Azure Data factory where I have build
 ---
 
 # 🔄 Azure Data Factory Implementation
-## Git configuration with Azure Data Factory 
+**Git configuration with Azure Data Factory** 
 <img width="1920" height="768" alt="Git Configuration with ADF" src="https://github.com/user-attachments/assets/9dcbbb96-3d29-4035-9608-c2a0c0579af3" />
 
-## Linked Services for connecting ADF with SQL database and ADLS
+**Linked Services for connecting ADF with SQL database and ADLS**
 <img width="1920" height="817" alt="Connecting ADF with SQL database and ADLS" src="https://github.com/user-attachments/assets/428c0c02-21da-4e5e-bd2f-1ea456dc0c2e" />
 
 ---
