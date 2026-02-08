@@ -150,7 +150,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 <img width="1920" height="721" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer)" src="https://github.com/user-attachments/assets/62aed14f-5fae-406c-93ff-9fe9f55f79f7" />
 
 **Pipeline Features**
-- Incremental Loading
+-- Incremental Loading
 - Backfilling Support
    
 ### Datasets Used:	
