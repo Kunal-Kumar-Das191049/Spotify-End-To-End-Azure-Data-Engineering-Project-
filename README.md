@@ -130,10 +130,10 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 # 🗄️ Storage Layer (ADLS Gen2)
 
-## Containers
+**Containers**
 ![ADLS Containers](https://github.com/user-attachments/assets/7a5afc52-2220-44b3-b8a7-385e428cc729)
 
-## Bronze Layer Structure
+**Bronze Layer Structure**
 ![Bronze Layer](https://github.com/user-attachments/assets/fc7bf3fc-227a-493c-b41c-aef9676a1ca1)
 
 ---
