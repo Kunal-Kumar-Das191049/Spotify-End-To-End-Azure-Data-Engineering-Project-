@@ -113,7 +113,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 # ☁️ Azure Infrastructure Setup
 
-**🔹 Resources Used**
+### 🔹 Resources Used
 
 - Access Connector for Azure Databricks
 - Azure Databricks
