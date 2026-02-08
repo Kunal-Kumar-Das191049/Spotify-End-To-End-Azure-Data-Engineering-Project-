@@ -233,8 +233,8 @@ databricks.yml
 
 This project is a production-style end-to-end data engineering solution on Azure, designed to demonstrate incremental ingestion, streaming processing, medallion architecture, metadata-driven pipelines, and CI/CD practices using Azure and Databricks.
 
-# 🛠️ Tech Stack Used
-## ☁️ Cloud & Data Services
+## 🛠️ Tech Stack Used
+**☁️ Cloud & Data Services**
 
 Azure Cloud
 
@@ -248,23 +248,23 @@ Azure Databricks
 
 Logic Apps
 
-## 🧱 Architecture Overview
+**🧱 Architecture Overview**
 
 Architecture Highlights
 
-Incremental & backfill-enabled ingestion using Azure Data Factory
+Incremental & backfill-enabled ingestion using **Azure Data Factory**
 
-Bronze → Silver → Gold Medallion Architecture
+Bronze → Silver → Gold **Medallion Architecture**
 
-Streaming ingestion using Databricks Autoloader
+Streaming ingestion using **Databricks Autoloader**
 
-Star Schema & Slowly Changing Dimensions using Delta Live Tables
+Star Schema & Slowly Changing Dimensions using **Delta Live Tables**
 
-Metadata-driven pipelines using PySpark + Jinja2
+Metadata-driven pipelines using **PySpark + Jinja2**
 
-End-to-end CI/CD with GitHub & Databricks Asset Bundles
+End-to-end CI/CD with **GitHub & Databricks Asset Bundles**
 
-## 🚀 DevOps & CI/CD
+**🚀 DevOps & CI/CD**
 
 GitHub
 
@@ -272,7 +272,7 @@ Git-based CI/CD
 
 Databricks Asset Bundles
 
-# ✨ Project Features
+## ✨ Project Features
 
 Incremental data processing
 
@@ -290,19 +290,19 @@ CI/CD standards using GitHub
 
 Dynamic and reusable code
 
-# 📌 Project Overview
+## 📌 Project Overview
 
-Azure SQL Database and GitHub (static files) are used as data sources.
+**Azure SQL Database and GitHub (static files)** are used as data sources.
 
-Azure Data Factory (ADF) ingests data incrementally into the Bronze layer.
+**Azure Data Factory (ADF)** ingests data incrementally into the Bronze layer.
 
-Azure Databricks processes Bronze data and writes curated data to the Silver layer using Spark Structured Streaming and Autoloader.
+**Azure Databricks** processes Bronze data and writes curated data to the Silver layer using **Spark Structured Streaming and Autoloader**.
 
-Delta Live Tables (DLT) are used to build Gold-layer star schema models with Slowly Changing Dimensions.
+**Delta Live Tables (DLT**) are used to build Gold-layer star schema models with Slowly Changing Dimensions.
 
-Databricks Asset Bundles are used to manage and deploy code through CI/CD.
+**Databricks Asset Bundles*8 are used to manage and deploy code through CI/CD.
 
-A Warehouse is created at the end to share analytics-ready endpoints with the development team.
+A **Warehouse** is created at the end to share analytics-ready endpoints with the development team.
 
 # ☁️ Azure Resources Used
 
