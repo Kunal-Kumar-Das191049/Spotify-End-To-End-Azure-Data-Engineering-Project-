@@ -248,23 +248,21 @@ Azure Databricks
 
 Logic Apps
 
-## ⚙️ Processing & Architecture
+## Architecture Overview
 
-PySpark
+Architecture Highlights
 
-Spark Structured Streaming
+Incremental & backfill-enabled ingestion using Azure Data Factory
 
-Databricks Autoloader
+Bronze → Silver → Gold Medallion Architecture
 
-Unity Catalog
+Streaming ingestion using Databricks Autoloader
 
-Delta Live Tables (DLT)
+Star Schema & Slowly Changing Dimensions using Delta Live Tables
 
-Medallion Architecture (Bronze, Silver, Gold)
+Metadata-driven pipelines using PySpark + Jinja2
 
-Star Schema
-
-Slowly Changing Dimensions (SCD)
+End-to-end CI/CD with GitHub & Databricks Asset Bundles
 
 ## 🚀 DevOps & CI/CD
 
