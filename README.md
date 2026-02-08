@@ -59,14 +59,54 @@ The pipeline ingests data from **Azure SQL Database & GitHub**, processes it usi
 This project includes Data ingestion using Azure Data factory where I have build realtime dynamic pipeline with backfilling capabilities. I have used Azure Databricks and Spark structured streaming and Autoloader for Big data processing within Python utilities. I have build slowly changing dimensions and star schema using DLT and lakeflow pipelines. I have also used Databricks Asset Bundles to Push and deploy my code to GitHub.  
 
 
-SQL DB and GitHub(for static files) is our data sources. I have used the Azure Data Factory to load the data into the Bronze(Raw) layer. In the Bronze layer, I have Dynamically load the data incrementally using Incremental data load, backfilling of Data in the pipeline. I have also used the Git CI/CD to collaborate using git branches. 
+## 📊 Data Flow Explanation
 
-In the Silver layer, I have used Azure Databricks to use and process the data sitting in the bronze layer. I have created Unity catalog, Unity metastore, Credentials, external locations, Security and Groups. I have also used the spark structured streaming using Autoloader. Also build the Star Schema and slowly changing dimensions. I have also build the metadata driven pipeline With PySpark and Jinja2(templating library)
+### 🔹 Data Sources
+- Azure SQL Database
+- GitHub (Static Files)
 
-In the Gold layer, I have build the final model using Databricks Delta Live Tables.
-I have also used the Databricks Asset Bundles For CI/CD
+---
 
-At the End, I have build the warehouse to share the endpoints with the development team.
+### 🥉 Bronze Layer (Raw Data)
+
+👉 Implemented using **Azure Data Factory**
+
+- Incremental ingestion from SQL Database
+- Backfilling support
+- Dynamic pipeline execution
+- CDC-based loading
+- Stored data in ADLS in Parquet format
+
+---
+
+### 🥈 Silver Layer (Cleaned & Transformed Data)
+
+👉 Implemented using **Azure Databricks**
+
+- Unity Catalog & Metastore configuration
+- External locations & credential setup
+- Spark Structured Streaming using Autoloader
+- PySpark transformations
+- Metadata-driven joins using Jinja2
+
+---
+
+### 🥇 Gold Layer (Business Ready Data)
+
+👉 Implemented using **Delta Live Tables**
+
+- Star Schema implementation
+- SCD Type 2 implementation
+- Final curated datasets
+
+---
+
+### 🏬 Warehouse Layer
+
+- Exposes analytical datasets
+- Provides endpoints for downstream applications
+
+---
 
 
 
