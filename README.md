@@ -146,7 +146,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 <img width="1920" height="817" alt="Connecting ADF with SQL database and ADLS" src="https://github.com/user-attachments/assets/428c0c02-21da-4e5e-bd2f-1ea456dc0c2e" />
 
 ---
-**Dynamic pipeline to incrementally load the raw data from SQL Database to ADLS(Bronze Layer)**
+### Dynamic pipeline to incrementally load the raw data from SQL Database to ADLS(Bronze Layer)
 <img width="1920" height="721" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer)" src="https://github.com/user-attachments/assets/62aed14f-5fae-406c-93ff-9fe9f55f79f7" />
 
 ### Pipeline Features
