@@ -166,7 +166,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 ---
 
-## Colone of same Pipeline with Loop and Alerts (By using Logic App)
+## Clone of same Pipeline with Loop and Alerts (By using Logic App)
 <img width="1920" height="831" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer) using Loop" src="https://github.com/user-attachments/assets/f7a647a1-3712-4910-801d-5264b054a53d" />
 
 ### Pipeline Parameters
