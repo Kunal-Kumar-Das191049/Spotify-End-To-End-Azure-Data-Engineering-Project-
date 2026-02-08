@@ -138,7 +138,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 ---
 
-## 🔄 Azure Data Factory Implementation
+### 🔄 Azure Data Factory Implementation
 **Git configuration with Azure Data Factory** 
 <img width="1920" height="768" alt="Git Configuration with ADF" src="https://github.com/user-attachments/assets/9dcbbb96-3d29-4035-9608-c2a0c0579af3" />
 
@@ -146,7 +146,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 <img width="1920" height="817" alt="Connecting ADF with SQL database and ADLS" src="https://github.com/user-attachments/assets/428c0c02-21da-4e5e-bd2f-1ea456dc0c2e" />
 
 ---
-## Dynamic pipeline to incrementally load the raw data from SQL Database to ADLS(Bronze Layer)
+**Dynamic pipeline to incrementally load the raw data from SQL Database to ADLS(Bronze Layer)**
 <img width="1920" height="721" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer)" src="https://github.com/user-attachments/assets/62aed14f-5fae-406c-93ff-9fe9f55f79f7" />
 
 ### Pipeline Features
@@ -158,15 +158,15 @@ This project includes Data ingestion using Azure Data factory where I have build
 2. json_dynamic - To dynamically define the location of json data present in ADLS
 3. parquet_dynamic - To dynamically define the location of parquet file format data present in ADLS
 
-### Pipeline Parameters
+**Pipeline Parameters**
 <img width="1920" height="714" alt="Parameters used in the pipeline - incremental_ingestion" src="https://github.com/user-attachments/assets/c9022fcc-1912-447a-a219-91d7ee4f7251" />
 
-### Pipeline Variables
+**Pipeline Variables**
 <img width="1920" height="720" alt="Variables used in the pipeline - incremental_ingestion" src="https://github.com/user-attachments/assets/a8974e04-08d9-4b61-8994-0a8021821fef" />
 
 ---
 
-## Colone of same Pipeline with Loop and Alerts (By using Logic App) 
+**Colone of same Pipeline with Loop and Alerts (By using Logic App)** 
 <img width="1920" height="831" alt="Pipeline for Incrementally Load the raw data from SQL database to ADLS(Bronze Layer) using Loop" src="https://github.com/user-attachments/assets/f7a647a1-3712-4910-801d-5264b054a53d" />
 
 ### Pipeline Parameters
