@@ -248,7 +248,7 @@ Azure Databricks
 
 Logic Apps
 
-## Architecture Overview
+## 🧱 Architecture Overview
 
 Architecture Highlights
 
