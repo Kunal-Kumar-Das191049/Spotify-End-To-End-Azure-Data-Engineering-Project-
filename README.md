@@ -229,12 +229,12 @@ databricks.yml
 
 
 
-🎧 Spotify End-to-End Azure Data Engineering Project
+# 🎧 Spotify End-to-End Azure Data Engineering Project
 
 This project is a production-style end-to-end data engineering solution on Azure, designed to demonstrate incremental ingestion, streaming processing, medallion architecture, metadata-driven pipelines, and CI/CD practices using Azure and Databricks.
 
-🛠️ Tech Stack Used
-☁️ Cloud & Data Services
+# 🛠️ Tech Stack Used
+## ☁️ Cloud & Data Services
 
 Azure Cloud
 
@@ -248,7 +248,7 @@ Azure Databricks
 
 Logic Apps
 
-⚙️ Processing & Architecture
+## ⚙️ Processing & Architecture
 
 PySpark
 
@@ -266,7 +266,7 @@ Star Schema
 
 Slowly Changing Dimensions (SCD)
 
-🚀 DevOps & CI/CD
+## 🚀 DevOps & CI/CD
 
 GitHub
 
@@ -274,7 +274,7 @@ Git-based CI/CD
 
 Databricks Asset Bundles
 
-✨ Project Features
+# ✨ Project Features
 
 Incremental data processing
 
@@ -292,7 +292,7 @@ CI/CD standards using GitHub
 
 Dynamic and reusable code
 
-📌 Project Overview
+# 📌 Project Overview
 
 Azure SQL Database and GitHub (static files) are used as data sources.
 
@@ -306,7 +306,7 @@ Databricks Asset Bundles are used to manage and deploy code through CI/CD.
 
 A Warehouse is created at the end to share analytics-ready endpoints with the development team.
 
-☁️ Azure Resources Used
+# ☁️ Azure Resources Used
 
 Azure SQL Database
 
