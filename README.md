@@ -189,8 +189,8 @@ Used for **sending notifications via Outlook** when pipeline failed.
 
 ---
 
-## Databricks
-Databricks Overview dashboard
+## Databricks Implementation
+## Workspace Overview
 <img width="1920" height="824" alt="Databricks Dashboard" src="https://github.com/user-attachments/assets/55dd3277-e1ed-4dec-9503-be81838b9974" />
 
 Access connector for Azure Databricks Overview dashboard
