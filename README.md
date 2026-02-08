@@ -111,7 +111,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 
 
-## ☁️ Azure Infrastructure Setup
+# ☁️ Azure Infrastructure Setup
 
 ### 🔹 Resources Used
 
@@ -128,7 +128,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 ---
 
-# 🗄️ Storage Layer (ADLS Gen2)
+### 🗄️ Storage Layer (ADLS Gen2)
 
 **Containers**
 ![ADLS Containers](https://github.com/user-attachments/assets/7a5afc52-2220-44b3-b8a7-385e428cc729)
@@ -138,7 +138,7 @@ This project includes Data ingestion using Azure Data factory where I have build
 
 ---
 
-# 🔄 Azure Data Factory Implementation
+## 🔄 Azure Data Factory Implementation
 **Git configuration with Azure Data Factory** 
 <img width="1920" height="768" alt="Git Configuration with ADF" src="https://github.com/user-attachments/assets/9dcbbb96-3d29-4035-9608-c2a0c0579af3" />
 
