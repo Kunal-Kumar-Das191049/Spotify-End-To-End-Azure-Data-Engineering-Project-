@@ -223,9 +223,12 @@ In ADLS I have added a role assignment (Storage Blob Data contributor) to the ma
 
 ---
 
-Created Databricks Asset Bundle
+# 🔄 Streaming & Transformations
+## Databricks Asset Bundle
 <img width="1920" height="827" alt="Databricks Asset Bundle" src="https://github.com/user-attachments/assets/6c04041b-4690-431f-8749-0c9a95c6d3a9" />
 
+---
+## Autoloader + PySpark Transformations
 Created a notebook - Used Autoloader to load the data in Stream and pyspark transformations to transform the data
 <img width="1920" height="828" alt="Pyspark transformation - 1" src="https://github.com/user-attachments/assets/d9b4c604-1da1-4224-8d9f-84b91bec24b4" />
 
