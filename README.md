@@ -18,7 +18,7 @@ The pipeline ingests data from **Azure SQL Database & GitHub**, processes it usi
 - Backfilling Pipelines
 - Loop-based Dynamic Pipelines
 
-### ⚡ **Data Processing**
+### ⚡ Data Processing
 - Azure Databricks
 - Spark Structured Streaming
 - Databricks Autoloader
